@@ -1,5 +1,5 @@
 # Search-Recipe
-A program to search for recipes based on an ingredient. The standard project uses the Edamam Recipe API
+A python program to search for recipes based on an ingredient. The standard project uses the Edamam Recipe API
 
 
 1. Read the Edamam API documentation ★
